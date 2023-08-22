@@ -23,11 +23,6 @@
 # to create requirements  : pip freeze > requirements.txt
 # to install requirements  : pip install -r requirements.txt
 
-# sarhan Gamalat@1309@1309
-# from mycoffee.wsgi import application
-# allowed host = ['mycoffee.engsarhan.com','www.mycoffee.engsarhan.com']
-
-#to create Virtual Machine  : pip install virtualenv enter cd desktop enter virtualenv mysite enter
 # from django.conf.urls import url
 # D:\PycharmProjects\Mixed_Blog\venv\Lib\site-packages\tinymce\urls.py
 # from django.conf.urls import url
